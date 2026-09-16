@@ -1,0 +1,146 @@
+# Supermarket Sales Analytics Dashboard
+
+## Overview
+
+The Supermarket Sales Analytics Dashboard is an interactive Power BI project designed to analyze supermarket sales performance and customer behavior.
+
+The dashboard transforms raw sales data into meaningful insights using data cleaning, transformation, exploratory data analysis, and interactive visualizations.
+
+## Objectives
+
+- Analyze overall supermarket sales performance
+- Identify top-performing products and branches
+- Analyze customer purchasing patterns
+- Compare sales across cities and branches
+- Understand payment method preferences
+- Analyze income, ratings, and customer segments
+- Track key performance indicators using interactive dashboards
+
+## Dataset
+
+The dataset contains supermarket transaction information including:
+
+- Invoice ID
+- Branch
+- City
+- Customer Type
+- Gender
+- Product Line
+- Unit Price
+- Quantity
+- Tax
+- Total
+- Date
+- Time
+- Payment Method
+- Cost of Goods Sold
+- Gross Income
+- Customer Rating
+
+## Tools & Technologies
+
+- Power BI
+- Microsoft Excel
+- Power Query
+- Pivot Tables
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis
+- Data Visualization
+
+## Key Features
+
+### KPI Analysis
+The dashboard provides KPI cards for monitoring important business metrics such as:
+
+- Total Sales
+- Total Quantity
+- Gross Income
+- Average Customer Rating
+- Number of Transactions
+
+### Sales Analysis
+
+The dashboard analyzes:
+
+- Sales by branch
+- Sales by city
+- Sales by product line
+- Sales trends
+- Product performance
+
+### Customer Analysis
+
+Customer behavior is analyzed based on:
+
+- Customer type
+- Gender
+- Product preferences
+- Payment methods
+- Customer ratings
+
+### Interactive Filters
+
+Users can dynamically explore the dashboard using slicers and filters based on:
+
+- Branch
+- City
+- Customer Type
+- Gender
+- Product Line
+- Payment Method
+
+## Data Preparation
+
+The dataset was prepared using Excel and Power Query.
+
+The process included:
+
+1. Removing unnecessary data
+2. Handling missing or inconsistent values
+3. Formatting columns
+4. Transforming data types
+5. Creating calculated fields
+6. Validating the transformed data
+7. Preparing the dataset for Power BI visualization
+
+## Dashboard
+
+The Power BI dashboard contains interactive KPI cards, charts, slicers, and visual comparisons to make business insights easier to understand.
+
+## Insights
+
+The dashboard can be used to identify:
+
+- High-performing product categories
+- Branch and city-level sales differences
+- Customer purchasing patterns
+- Preferred payment methods
+- Customer satisfaction trends
+- Revenue and profitability patterns
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis
+- Data Visualization
+- Power BI Dashboard Development
+- Power Query
+- Excel
+- Business Analytics
+- KPI Analysis
+- Data Interpretation
+
+## Project Type
+
+**Data Analytics | Business Intelligence | Power BI**
+
+## Author
+
+**Keerthana Kanumuri**
+
+B.Tech Computer Science and Engineering  
+VIT-AP University
+
+GitHub: https://github.com/keerthanakanumuri
